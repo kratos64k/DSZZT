@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DSZZT</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_manual_mode">ManualMode</string>
+    <string name="title_activity_automat_mode">Automat_mode</string>
+    <string name="title_activity_video_stream">VideoStream</string>
+
+</resources>
